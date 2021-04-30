@@ -1,0 +1,44 @@
+/* .List{
+    width: 300px;
+    height: 50px;
+    background-color: #bf07ac;
+    border-radius: 5px;
+    margin: 20px auto;
+}
+.List p{
+    padding: 10px;
+    position: relative;
+}
+.List p span{
+    position: absolute;
+    right: 10px;
+    cursor: pointer;
+} */
+.Lists{
+    align-items: center;
+    width: 200px;
+    height: auto;
+    display: block;
+    background-color: whitesmoke;
+}
+.Card{
+    float: left;
+    padding: 10px;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    background-color:#f1f1f1;
+    margin-left: 20px;
+    margin-right: 10px;
+    margin-bottom: 20px;
+    align-items: center;
+    border-radius: 5px;
+}
+.Img{
+    width: 200px;
+    height: 200px;
+
+}
+.Lists p{
+    color: black;
+    text-overflow: clip;
+  
+}

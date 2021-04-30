@@ -1,0 +1,32 @@
+/* body{
+background-color: #9266ff;
+} */
+.Todo{
+    background-color: #3f3160;
+    min-height: 600px;
+    width: 500px;
+    margin: 40px auto;
+}
+.todo_form input{
+background-color: rgb(27, 112, 137);
+width: 200px;
+height: 50px;
+padding: 0 20px;
+margin: 20px;
+font-size: 18px;
+border-radius: 10px;
+color: white;
+}
+.todo_form input::placeholder{
+    color: rgba(225, 225, 225, 0.5);
+}
+.todo_form button{
+    width: 80px;
+    height: 50px;
+    border-radius: 5px;
+    background-color: rgb(202, 156, 126);
+    font-weight: bolder;
+    color: white;
+    cursor: pointer;
+
+}
